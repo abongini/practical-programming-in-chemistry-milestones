@@ -9,7 +9,7 @@ boration, and real-world software development workflows. The table provides plac
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/abongini                                            | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
+| 1    | Github Profile Page                         | https://github.com/abongini/abongini                                  |
 | 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
 | 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
 | 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |

@@ -1,13 +1,14 @@
 # Personal Milestones
 
-The **personal milestones table** outlines key milestones for practical programming skills development tailored to chemistry students. By incrementally working through activities like creating a GitHub account, making commits, branches, pull requests, and reviewing others' submissions, students can gain first-hand experience with version control, collaboration, and real-world software development workflows. The table provides placeholder links for students to fill in with the specific URLs corresponding to their completion of each task.
+The **personal milestones table** outlines key milestones for practical programming skills development tailored to chemistry students. By incrementally working through activities like creating a GitHub account, making commits, branches, pull requests, and reviewing others' submissions, students can gain first-hand experience with version control, colla
+boration, and real-world software development workflows. The table provides placeholder links for students to fill in with the specific URLs corresponding to their completion of each task.
 
 **Link:** They should insert the actual URL where they achieved each milestone into the `Link` column. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. :exclamation: Replace the placeholders (including `'`) with the actual URLs :exclamation: - only the marked sections will change.
 
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
+| 1    | Github Account Created                      | https://github.com/abongini                                            | 
 | 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
 | 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
 | 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |

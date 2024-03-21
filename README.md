@@ -16,6 +16,7 @@ boration, and real-world software development workflows. The table provides plac
 | 1    | Fork a Repo                                 | https://github.com/abongini/practical-programming-in-chemistry-milestones.git |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
 
 **More milestones will be added throughout the course.**
 
